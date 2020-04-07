@@ -1,5 +1,0 @@
-$(function() {
-    $('#selMHD').change(function() {
-        
-    });
-})
